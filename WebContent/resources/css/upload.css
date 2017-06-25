@@ -1,0 +1,25 @@
+@charset "utf-8";
+#progress {
+	position: absolute;
+	left: 100px;
+	top: 80px;
+	border: 2px solid #ff9900;
+	color: #FFFFFF;
+	width: 0px;
+	height: 21px;
+	background-color: #ff9900;
+}
+#box {
+	position: absolute;
+	left: 97px;
+	top: 77px;
+	border: 2px solid #ff9900;
+	color: #000000;
+	width: 206px;
+	height: 27px;
+	line-height: 27px;
+	font-size: 12px;
+	text-align: center;
+	box-shadow: 3px 3px 5px #888888;
+}/* CSS Document */
+

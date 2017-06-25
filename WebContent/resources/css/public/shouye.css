@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+#shouye {
+	width: 80%;
+	height: auto;
+	clear: both;
+	margin:20px auto;
+	display: block;
+	border: 2px solid #666;
+	color: #FFF;
+}
+
+#bleft {
+	width: 64%;
+	height: auto;
+	float: left;
+	border: 2px solid #666;
+	margin:0px;
+	padding:0px;
+}
+#ltitle {
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	font-size: 25px;
+	color: #00F;
+	box-shadow: 2px 2px 2px #999999;
+}
+#bleft ul{
+	margin:0px;
+	padding:0px;
+	height:auto;
+}
+#bleft ul li {
+	display:block;
+	width: 20%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	float: left;
+	line-height: 50px;
+	vertical-align: middle;
+	box-shadow: 2px 2px 2px #999999;
+	margin:0px;
+}
+#bground {
+	clear: both;
+	background-image: url(../../images/person-bottom.jpg);
+	width: 96%;
+	height: 220px;
+	margin: 10px auto;
+	-webkit-transition: width ease 0.2s;
+}
+
+#bground:hover {
+	height: 360px;
+}
+
+#bright {
+	width: 35%;
+	height: 500px;
+	float: right;
+	border: 2px solid #666;
+	margin:0px;
+}
+
+#rtitle{
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	font-size: 25px;
+	color: #00F;
+	box-shadow: 2px 2px 2px #999999;
+}
+#bright ul{
+	margin:0px;
+	height:auto;
+}
+#bright ul li {
+	height: 30px;
+	line-height: 30px;
+	margin:10px 0px;
+	box-shadow: 2px 2px 2px #999999;
+} /* CSS Document */

@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+#shouye {
+	width: 80%;
+	height: auto;
+	margin: 10px auto;
+	display: block;
+}
+#person {
+	width: 80%;
+	height: auto;
+	margin: 10px auto;
+	display: none;
+}
+#computer {
+	width: 80%;
+	height: auto;
+	margin: 10px auto;
+	display: none;
+}
+#sofaware {
+	width: 80%;
+	height: atuo;
+	margin: 10px auto;
+	display: none;
+}
+#comnication{
+	width: 50%;
+	height: atuo;
+	margin: 10px auto;
+	display: none;
+}
+#publicresource{
+	width: 50%;
+	height: atuo;
+	margin: 10px auto;
+	display: none;
+}
+
+
+

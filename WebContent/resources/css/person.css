@@ -1,0 +1,227 @@
+@charset "utf-8";
+
+#mybody-left {
+	width: 30%;
+	height: auto;
+	float: left;
+}
+
+.mybody-left-body {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	font-size: 25px;
+	box-shadow: 2px 2px 2px #999999;
+	text-align: center;
+	color: #036;
+}
+
+#mybody-right {
+	width: 70%;
+	height: auto;
+	float: left;
+	box-shadow: 2px 2px 2px #999999
+}
+/*联系客服*/
+#kefu {
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+
+#mychat-body {
+	width: 100%;
+	height: 80%;
+	box-shadow: 2px 2px 2px #666666;
+	background-color: #333;
+}
+
+#mychat-image {
+	width: 100%;
+	height: 8%;
+	background-color: #333;
+	margin: 1% 0px;
+}
+
+#mychat-contment {
+	width: 66%;
+	height: 8%;
+	float: left;
+	margin: 1% 0px;
+}
+
+.mychat-button {
+	width: 15%;
+	height: 8%;
+	float: left;
+	margin: 1% 0px;
+}
+/*我的电影*/
+#video {
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+
+#myvideo-body {
+	width: 98%;
+	height: 80%;
+	background-image: url(../resources/images/video.jpg);
+	background-size: 100%;
+	box-shadow: 2px 2px 2px #999999;
+}
+
+#myvideo-image {
+	width: 98%;
+	height: 8%;
+	box-shadow: 2px 2px 2px #999999;
+	margin: 1% 0px;
+}
+
+#myvideo-contment {
+	width: 65%;
+	height: 8%;
+	margin: 1% 0px;
+	box-shadow: 2px 2px 2px #999999;
+	float: left;
+	padding-left: 10px;
+}
+
+.myvideo-button {
+	width: 15%;
+	height: 8%;
+	margin: 1% 0px;
+	box-shadow: 2px 2px 2px #999999;
+	float: left
+}
+/*我的音乐*/
+#music {
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+
+#mychat-body {
+	width: 100%;
+	height: 85%;
+}
+
+#myaudio-play {
+	width: 60%;
+	height: 8%;
+	margin: 1% 0px;
+	float: left;
+}
+
+.mybutton {
+	width: 10%;
+	height: 8%;
+	margin: 1% 0px;
+	float: left;
+}
+/*我的背景色*/
+#background {
+	width: 100%;
+	height: 100%;
+	display: none;
+	margin:0%;
+}
+
+#background ul {
+	width: 100%;
+	height: 96%;
+}
+
+#background ul li {
+	width: 29%;
+	height: 32%;
+	float: left;
+	margin:1%;
+}
+#background ul li img{
+	width:100%;
+	height:100%;
+}
+
+/*注册信息*/
+#zhuce {
+	width: 100%;
+	height: 100%;
+	font-size: 16px;
+	display: none;
+}
+
+.textfiled {
+	width: 200px;
+	height: 12px;
+	line-height: 20px;
+	padding: 10px;
+	box-shadow: 2px 2px 2px #999999;
+}
+
+.button {
+	width: 75px;
+	height: 25px;
+	box-shadow: 2px 2px 2px #666666;
+	margin: 10px;
+}
+/*使用记录*/
+#jilu {
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+
+#time {
+	width: 200px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	margin: 10px;
+	box-shadow: 2px 2px 2px #666666;
+	float: left
+}
+
+#adress {
+	width: 500px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	margin: 10px;
+	box-shadow: 2px 2px 2px #666666;
+	float: left
+}
+
+#mychat-body {
+	width: 98%;
+	height: 400px;
+	margin: 0px auto;
+	background-color: #FFF;
+	box-shadow: 2px 2px 2px #999999;
+}
+
+#mychat-image {
+	width: 98%;
+	height: 30px;
+	margin: 5px auto;
+	background-color: #FFF;
+	box-shadow: 2px 2px 2px #999999;
+}
+
+#mychat-contment {
+	width: 80%;
+	height: 40px;
+	background-color: #FFF;
+	box-shadow: 2px 2px 2px #999999;
+	float: left;
+	margin-left: 1%;
+}
+
+.mychat-button {
+	width: 9%;
+	height: 40px;
+	background-color: #FFF;
+	box-shadow: 2px 2px 2px #999999;
+	float: left
+}
+/* CSS Document */

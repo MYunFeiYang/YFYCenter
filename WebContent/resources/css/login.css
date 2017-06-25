@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+body {
+	background-image: url(../images/login.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#username {
+	width: 22%;
+	height: 8%;
+	position: absolute;
+	top: 56%;
+	left: 53.5%;
+	border-radius: 10px;
+	text-align:center;
+}
+
+#password {
+	width: 22%;
+	height: 8%;
+	position: absolute;
+	top: 66%;
+	left: 53.5%;
+	border-radius: 10px;
+	text-align:center;
+}
+
+#loginBtn {
+	position: absolute;
+	top: 77%;
+	left: 58.5%;
+	width: 8%;
+	height: 8%;
+	border-radius: 5px;
+}
+
+#button2 {
+	position: absolute;
+	top: 77%;
+	left: 67%;
+	width: 8%;
+	height: 8%;
+	border-radius: 5px;
+}
